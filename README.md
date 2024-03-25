@@ -1,4 +1,4 @@
-<h1>File Integration Monitor</h1>
+<h1>File Integrity Monitor</h1>
 
  ### [Medium Article Demonstration](https://medium.com/@sebastienwebdev/file-integrity-monitor-in-python-a-beginners-guide-fedefc9d9284)
 
